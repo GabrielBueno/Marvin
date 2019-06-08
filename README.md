@@ -16,9 +16,15 @@ Onde:
     - **r**: Quando este bit está ligado, indica que o motor correspondente deve ter a rotação invertida.
 
 **0x11**: Para frente
+
 **0x99**: Ré
+
 **0x10**: Vira para a direita
+
 **0x01**: Vira para a esquerda
+
 **0x91**: Curva fechada para a direita
+
 **0x19**: Curva fechada para a esquerda
+
 **0x00**: Ponto morto
